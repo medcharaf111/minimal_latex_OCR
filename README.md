@@ -32,7 +32,7 @@ This project provides a simple tool to extract both plain text and LaTeX equatio
 3. The extracted text and LaTeX will be shown in the window and saved to `output.txt` in the same folder as your image.
 
 ## Example
-![screenshot](screenshot.png)
+![screenshot](Screenshot.png)
 
 ## Credits
 - [pix2tex (LaTeX-OCR)](https://github.com/lukas-blecher/LaTeX-OCR)
