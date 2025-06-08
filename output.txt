@@ -1,9 +1,7 @@
 Plain OCR Text (Tesseract):
-150 - 2y =110
-150- 2y+ 2y =110+ 2y
-150+ 0 =110+ 2y
-150 = 110+ 2y
+xMryts(2"-w") stay # r(1-*)2f Virwdx
+j U per OP
 
 
 LaTeX (pix2tex):
-\begin{array}{c}{{150-2{\bf y}=110}}\\ {{150-2{\bf y}+2{\bf y}=110+2{\bf y}}}\\ {{150+0=110+2{\bf y}}}\\ {{150=110+2{\bf y}}}\\ {{150=1110+2{\bf y}}}\end{array}
+\mathbf{x}^{\mathbf{x}}+\mathbf{y}^{\mathbf{x}}=\left(z^{\mathbf{x}}-\mathbf{u}^{\lambda\mathbf{x}}\right)=\sum_{\mathbf{ij}}a_{\mathbf{ij}}\neq\sum_{p\in{\boldsymbol{\mathsf{P}}}}(1-{\frac{1}{\ p}})=\int{\sqrt{\mathbf{1}+\mathbf{x}^{2}}}d\mathbf{x}
