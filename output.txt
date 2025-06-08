@@ -1,0 +1,9 @@
+Plain OCR Text (Tesseract):
+150 - 2y =110
+150- 2y+ 2y =110+ 2y
+150+ 0 =110+ 2y
+150 = 110+ 2y
+
+
+LaTeX (pix2tex):
+\begin{array}{c}{{150-2{\bf y}=110}}\\ {{150-2{\bf y}+2{\bf y}=110+2{\bf y}}}\\ {{150+0=110+2{\bf y}}}\\ {{150=110+2{\bf y}}}\\ {{150=1110+2{\bf y}}}\end{array}
